@@ -122,3 +122,5 @@ class BusinessHours:
             if datetime.isoweekday() == weekend:
                 return True
         return False
+
+#Test
